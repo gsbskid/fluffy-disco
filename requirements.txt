@@ -1,0 +1,12 @@
+pypdf 
+PyPDF2
+pikepdf
+pdf2image
+pillow_heif
+pytesseract
+python-docx
+pdfminer.six
+unstrucutred
+opencv-python
+unstructured_inference
+unstructured_pytesseract
